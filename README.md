@@ -22,4 +22,13 @@ We Extract the rating after converting the JSON to a dictioary structurea and th
 various parameters like axis value, and the plot line style.<br>
 ------
 Use: Just change the &lt;SeasonName&gt;.json to anny value and see the visualization, along with the structure of the JSON.<br>
-License: Do What You Want With It License.
+License: Do What You Want With It License.<br><br>
+ImageOutput:<br>
+<ul>
+<li>House Of Cards:</li>
+<img src="test.png"><br><br>
+<li>Friends:</li>
+<img src="test1.png"><br><br>
+<li>The Big Bang Theory:</li>
+<img src="test2.png"><br><br>
+</ul>
