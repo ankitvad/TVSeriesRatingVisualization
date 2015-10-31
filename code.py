@@ -1,4 +1,4 @@
-#Ankit Vadehra-12BCE0282; Graphics Assignment.
+#Ankit Vadehra- ankitvad@gmail.com
 import json
 import matplotlib.pyplot as plt
 import pprint
