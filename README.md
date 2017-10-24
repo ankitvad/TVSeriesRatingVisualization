@@ -20,7 +20,7 @@ IMDB parsed JSON files are obtained that give us the following data:<br>
 <br>
 We Extract the rating after converting the JSON to a dictioary structurea and then use matplotlib to visualize the range of the rating, updating 
 various parameters like axis value, and the plot line style.<br>
-------
+------<br>
 Use: Just change the &lt;SeasonName&gt;.json to anny value and see the visualization, along with the structure of the JSON.<br>
 License: Do What You Want With It License.<br><br>
 ImageOutput:<br>
