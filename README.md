@@ -2,7 +2,7 @@
 Visualizing the TV Series Rating over the run of the Program.<br>
 -----
 The program visualizes the TV Series ratings over the season run.<br>
-IMDB parsed JSON files are obtained that give us the following data:<br>
+IMDB parsed JSON files are obtained that gives us the following data:<br>
 <ul>
 <li>Name of TV Show</li>
 <li>Average Rating of the Series</li>
