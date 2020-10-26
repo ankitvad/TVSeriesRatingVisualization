@@ -32,3 +32,5 @@ ImageOutput:<br>
 <li>The Big Bang Theory:</li>
 <img src="test2.png"><br><br>
 </ul>
+<br>
+PS: Check other Scatter Plots and seaborn library.
